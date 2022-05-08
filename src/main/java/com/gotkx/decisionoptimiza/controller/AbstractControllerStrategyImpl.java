@@ -1,6 +1,6 @@
 package com.gotkx.decisionoptimiza.controller;
 
-import com.gotkx.decisionoptimiza.response.AbstractRequest;
+import com.gotkx.decisionoptimiza.request.AbstractRequest;
 import com.gotkx.decisionoptimiza.response.AbstractResponse;
 
 /**

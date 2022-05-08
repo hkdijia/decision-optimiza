@@ -16,7 +16,7 @@ public abstract class CommonParams implements Serializable {
     /**
      * 产品类型
      */
-    String ProductType;
+    String productType;
 
     private static final long serialVersionUID = -735840211206290841L;
 }

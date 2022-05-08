@@ -1,4 +1,4 @@
-package com.gotkx.decisionoptimiza.response;
+package com.gotkx.decisionoptimiza.request;
 
 import com.gotkx.decisionoptimiza.common.CommonParams;
 import lombok.Data;
@@ -9,7 +9,6 @@ import lombok.Data;
  */
 @Data
 public class AbstractRequest extends CommonParams {
-
 
 
 }
